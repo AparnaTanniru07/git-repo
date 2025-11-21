@@ -1,2 +1,2 @@
-print("first project")
-print ("second line added")
+print("second project")
+print("second line added")
